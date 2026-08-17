@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Background circle -->
+    <path
+        android:fillColor="#059669"
+        android:pathData="M54,54m-40,0a40,40 0,1 1,80 0a40,40 0,1 1,-80 0" />
+    <!-- Simplified shuttlecock shape -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,30 L58,42 L54,54 L50,42 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,54 C54,54 44,44 42,38 C40,32 46,28 54,30 C62,28 68,32 66,38 C64,44 54,54 54,54 Z" />
+    <!-- Base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,54 L58,54 L56,62 Q54,66 52,62 Z" />
+</vector>
